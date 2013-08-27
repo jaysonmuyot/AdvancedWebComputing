@@ -1,0 +1,61 @@
+body
+{
+	background: url(edit.jpg);
+}
+
+.banner
+{
+	background-image: url(mov.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 130px;
+	width:85%;
+	position: center;
+	border-radius: 5pt;
+	margin: 0% 7%;
+
+}
+div.margin
+{
+	margin-left:20%;
+}
+#searchtextbox
+{
+	border-radius: 5pt;
+	height: 40px;
+	width: 398px;
+}
+
+#searchbutton
+{
+	border-radius:5pt;
+	width: 80px;
+	height: 50px;
+}
+
+.movie-result
+{
+	margin-left: 300px;
+}
+
+#movie-title
+{
+	margin-left:350px;
+}
+
+#movie-poster
+{
+	margin-left:375px;
+}
+
+.div-results
+{
+	background-color: black;
+}
+
+.h3-result
+{
+	margin-left: 300px;
+	font-family: georgia;
+	margin-right: 300px;
+}
